@@ -6408,7 +6408,7 @@
                             "invisible"
                         ],
                         "access_rules": [
-                            "^$dark|mountmortar"
+                            "^$mountmortar"
                         ]
                     },
                     {
@@ -6428,7 +6428,7 @@
                             "invisible"
                         ],
                         "access_rules": [
-                            "$can_surf_johto, ^$dark|mountmortar"
+                            "$can_surf_johto, ^$mountmortar"
                         ]
                     },
                     {
